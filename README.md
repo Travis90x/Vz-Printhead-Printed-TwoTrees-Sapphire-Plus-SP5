@@ -2,10 +2,16 @@
 # The Vz-Bot Printhead for TwoTrees Sapphire Plus SP5 Stock and Modded
 #### Version: Stock Top or 4x2020 profile on Top
 #### Compatible with Vz-Bot Printhead Printed MGN12
-#### Compatible with Vz-Bot Printhead CNC MGN9 by Sfanella
+
 
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615345&authkey=%21ACcWkevuUSs0L1U&width=1607&height=776)
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615333&authkey=%21AMQTol4phfF4L80&width=1517&height=787)
+
+#### Compatible with Vz-Bot Printhead CNC MGN9 by Sfanella
+
+![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615374&authkey=%21APqznIEqk_5P_HE&width=1216&height=756)
+![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615380&authkey=%21AFLBbyhYReuWmpQ&width=1308&height=785)
+
 
 
 # The Vz-Printhead Printed Version
