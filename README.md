@@ -5,19 +5,39 @@
 
 ## Version: Stock Top
 #### Compatible with Vz-Bot Printhead Printed MGN12
+Stock MGN12 370mm (MGN12H)
+
+X BAR 1515 400mm
 
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615345&authkey=%21ACcWkevuUSs0L1U&width=1607&height=776)
 
 #### or Vz-Bot Printhead CNC MGN9 by Sfanella
+MGN9 370mm (MGN9H or MGN9C)
+
+X BAR 1515 400mm
+
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615333&authkey=%21AMQTol4phfF4L80&width=1517&height=787)
 
 
-## Version:  4x2020 profile on Top
+## Version:  4x2020 profile on Top +  VzBot Y Gantry Printed (maybe Mellow CNC too)
 
-#### Compatible with Vz-Bot Printhead CNC MGN9 by Sfanella
+#### Compatible with Vz-Bot Printhead Printed MGN9 or CNC MGN9 by Sfanella
+
+MGN9 max 365mm (MGN9H or MGN9C)
+X BAR 2020 400mm 
+
 
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615374&authkey=%21APqznIEqk_5P_HE&width=1216&height=756)
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615380&authkey=%21AFLBbyhYReuWmpQ&width=1308&height=785)
+
+## Version:  4x2020 profile on Top + Custom Y Gantry Printed
+
+#### Compatible with Vz-Bot Printhead Printed MGN9 or CNC MGN9 by Sfanella
+
+MGN9 max 400mm (MGN9H or MGN9C)
+X BAR 2020 400mm 
+
+![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615413&authkey=%21AAOxeRMOdblrfmA&width=1012&height=738)
 
 
 
