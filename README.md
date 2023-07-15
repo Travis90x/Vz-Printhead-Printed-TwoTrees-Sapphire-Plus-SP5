@@ -1,5 +1,13 @@
-
+# SAPPHIBOT Project
 # The Vz-Bot Printhead for TwoTrees Sapphire Plus SP5 Stock and Modded
+Travis90x - Designer printed pieces
+
+Sfanella - Designer Vz-Printhead CNC for Sapphibot
+
+Mauro Soligo - Project evaluator
+
+Alex Vikingo - Project contributors
+
 
 ![](https://twotrees3d.com/wp-content/uploads/2023/01/Two-Trees-SP-5-3d-printer-reviews.jpg)
 
