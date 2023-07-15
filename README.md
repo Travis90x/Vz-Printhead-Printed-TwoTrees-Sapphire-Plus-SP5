@@ -24,6 +24,7 @@ X BAR 1515 400mm
 #### Compatible with Vz-Bot Printhead Printed MGN9 or CNC MGN9 by Sfanella
 
 MGN9 max 365mm (MGN9H or MGN9C)
+
 X BAR 2020 400mm 
 
 
@@ -35,6 +36,7 @@ X BAR 2020 400mm
 #### Compatible with Vz-Bot Printhead Printed MGN9 or CNC MGN9 by Sfanella
 
 MGN9 max 400mm (MGN9H or MGN9C)
+
 X BAR 2020 400mm 
 
 ![](https://onedrive.live.com/embed?resid=2A6BE858ABEEB97B%21615413&authkey=%21AAOxeRMOdblrfmA&width=1012&height=738)
