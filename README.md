@@ -4,9 +4,9 @@ Travis90x - Designer printed pieces
 
 Sfanella - Designer Vz-Printhead CNC for Sapphibot
 
-Mauro Soligo - Project evaluator
+Mauro Soligo - Project evaluator and contributor
 
-Alex Vikingo - Project contributors
+Alex Vikingo - Project contributor
 
 
 ![](https://twotrees3d.com/wp-content/uploads/2023/01/Two-Trees-SP-5-3d-printer-reviews.jpg)
