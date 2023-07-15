@@ -1,5 +1,8 @@
 
 # The Vz-Bot Printhead for TwoTrees Sapphire Plus SP5 Stock and Modded
+
+![](https://twotrees3d.com/wp-content/uploads/2023/01/Two-Trees-SP-5-3d-printer-reviews.jpg)
+
 #### Version: Stock Top or 4x2020 profile on Top
 #### Compatible with Vz-Bot Printhead Printed MGN12
 
