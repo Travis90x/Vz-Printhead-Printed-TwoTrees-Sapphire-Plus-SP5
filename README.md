@@ -15,7 +15,8 @@ Alex Vikingo - Project contributor
 
 ## 2 - Version: Stock Top
 #### Compatible with Vz-Bot Printhead Printed MGN12
-#### CULTS3D LIN: https://cults3d.com/en/3d-model/tool/twotrees-sapphire-plus-sp5-sapphibot-mod-from-vzbot-2-version-stock-top
+#### CULTS3D LINK:
+https://cults3d.com/en/3d-model/tool/twotrees-sapphire-plus-sp5-sapphibot-mod-from-vzbot-2-version-stock-top
 
 Stock MGN12 370mm (MGN12H)
 
