@@ -11,7 +11,7 @@ Alex Vikingo - Project contributor
 
 ![](https://twotrees3d.com/wp-content/uploads/2023/01/Two-Trees-SP-5-3d-printer-reviews.jpg)
 
-## Version: Stock Top
+## 2 - Version: Stock Top
 #### Compatible with Vz-Bot Printhead Printed MGN12
 Stock MGN12 370mm (MGN12H)
 
